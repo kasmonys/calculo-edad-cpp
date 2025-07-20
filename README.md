@@ -1,4 +1,3 @@
-# calculo-edad-cpp
 #include <iostream>
 using namespace std;
 
@@ -12,7 +11,8 @@ int main() {
     // Verifica si es mayor o menor de edad
     if (edad >= 18) {
         cout << "Usted es mayor de edad." << endl;
-    } else {
+    }
+    else {
         cout << "Usted es menor de edad." << endl;
     }
 
